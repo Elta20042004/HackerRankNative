@@ -1,0 +1,57 @@
+﻿Build started 9/18/2016 11:55:36 AM.
+     1>Project "C:\HackerR\HackerRank\HackerRank\HackerRank.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\HackerRank.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\HackerRank.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt HackerRank.cpp
+         HackerRank.cpp
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(1): warning C4627: '#include <map>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(2): warning C4627: '#include <set>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(3): warning C4627: '#include <list>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(4): warning C4627: '#include <cmath>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(5): warning C4627: '#include <ctime>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(6): warning C4627: '#include <deque>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(7): warning C4627: '#include <queue>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(8): warning C4627: '#include <stack>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(9): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(10): warning C4627: '#include <bitset>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(11): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(12): warning C4627: '#include <limits>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(13): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(14): warning C4627: '#include <climits>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(15): warning C4627: '#include <cstring>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(16): warning C4627: '#include <cstdlib>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(17): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(18): warning C4627: '#include <numeric>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(19): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(20): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(21): warning C4627: '#include <algorithm>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(22): warning C4627: '#include <unordered_map>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\hackerr\hackerrank\hackerrank\hackerrank.cpp(38): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\HackerR\HackerRank\HackerRank\HackerRank.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29
